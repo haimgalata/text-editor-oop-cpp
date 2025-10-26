@@ -1,0 +1,18 @@
+# Ignore build and binary files
+*.exe
+*.obj
+*.o
+*.out
+*.class
+*.dll
+
+# Ignore IDE build folders
+.vscode/
+.vs/
+build/
+Debug/
+Release/
+
+# Ignore temporary system files
+.DS_Store
+Thumbs.db
